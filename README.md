@@ -16,5 +16,3 @@ The goal of this project is to create a clean, professional portfolio website th
 - JavaScript
 - Git
 - GitHub
-
-## 📂 Project Structure
